@@ -15,3 +15,6 @@ unzip ./IBMiAccess_v1r1_LinuxAP.zip
 
 cd x86_64
 dpkg -i ibm-iaccess-1.1.0.28-1.0.amd64.deb
+
+
+see also: https://kadler.io/blog/2022-05-20-odbc-repos/
